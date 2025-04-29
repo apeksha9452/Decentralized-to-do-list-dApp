@@ -157,6 +157,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Apeksha Gupta]
 
 *Note: This is a proof-of-concept application. While every effort has been made to ensure security and efficiency, please use caution when deploying with real ETH.*
